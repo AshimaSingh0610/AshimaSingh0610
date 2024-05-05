@@ -12,8 +12,7 @@
 - ⚡ Fun fact **I'm an avid reader. My favorite genres are science fiction and fantasy.**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Beginner’s Guide to GitHub: Sail Smoothly with VS Code Shortcuts](https://medium.com/@ashima29/beginners-guide-to-github-sail-smoothly-with-vs-code-shortcuts-%EF%B8%8F-d0ee8c9d1175)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
