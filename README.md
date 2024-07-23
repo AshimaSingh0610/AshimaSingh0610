@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! 🌟 I'm Ashima Singh</h1>
 <h3 align="center">A CS Undergrad , Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.</h3>
 
-- 🌱 I’m currently learning **C# and .NET**
 
 <!-- -👨‍💻 All of my projects are available at [link](link) -->
 
