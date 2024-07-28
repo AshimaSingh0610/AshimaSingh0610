@@ -1,28 +1,87 @@
-<h1 align="center">Hey there! 🌟 I'm Ashima Singh</h1>
-<h3 align="center">A CS Undergrad , Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.</h3>
+<div style="display: flex; justify-content: space-between; align-items: right;">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=0e75b6&style=flat" alt="ashimasingh0610" />
+  </p>
+ </div>
 
 
-<!-- -👨‍💻 All of my projects are available at [link](link) -->
 
-- 📝 I also write articles on [https://medium.com/@ashima29](https://medium.com/@ashima29)
 
-- 📫 How to reach me **singhashima.2903@gmail.com**
+ <!--========================================================================-->
 
-- ⚡ Fun fact **I'm an avid reader. My favorite genres are science fiction and fantasy.**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=garamound&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Ashima+Singh!;" />
 
-### Blogs posts
-- [Beginner’s Guide to GitHub: Sail Smoothly with VS Code Shortcuts](https://medium.com/@ashima29/beginners-guide-to-github-sail-smoothly-with-vs-code-shortcuts-%EF%B8%8F-d0ee8c9d1175)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashimas29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashimas29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/-ashima-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-ashima-singh" height="30" width="40" /></a>
-<a href="https://medium.com/@ashima29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashima29" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srist_1st21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srist_1st21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashimasingh0610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashimasingh0610" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashimasingh0610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashimasingh0610" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/singhashima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhashima" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+ <!--========================================================================-->
+
+
+<h1 align="center">Hi 👋, I'm Ashima Singh</h1>
+<h3 align="center">A CS Undergrad , Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.</h3>  
+</h1>
+
+
+<br/>
+
+<div align="center">
+
+
+
+ A passionate software developer specializing in **AI technologies** and **web development**.
+
+💬 Ask me about **Python**, **Machine Learning**, and **Web Development**.
+ 
+🖋️ Dive into my articles on [**Medium**]( https://medium.com/@ashima29) where I explore technology trends and share coding tips.
+
+✨ Fun Fact: I’m a **passionate reader** with a love for science fiction and fantasy novels.
+
+ </div>
+
+
+ <!--========================================================================-->
+
+ <h2 align="center">🔗 Connect with me 🔗</h2>
+ 
+<div align="center"> 
+  <a href="mailto:ashimasingh.2903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/-ashima-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://medium.com/@ashima29" target="_blank">
+     <img src="https://img.shields.io/badge/Medium-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+
+ 
+ <!--========================================================================-->
+ 
+<h2 align="center">⚒️ Languages & Frameworks & Tools 🔧</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,vscode,github,git,idea,pycharm" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,sqlite,ai,scikitlearn,fastapi,tensorflow,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
+ <!--========================================================================-->
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ashimasingh0610&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<!--========================================================================-->
+
