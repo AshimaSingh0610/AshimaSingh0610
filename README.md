@@ -1,8 +1,6 @@
-<div style="display: flex; justify-content: flex-end; align-items: center; padding: 10px;">
-  <p style="margin: 0; font-size: 16px; color: #4CAF50; font-weight: bold;">
-    <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=4CAF50&style=flat-square" alt="ashimasingh0610" />
-  </p>
-</div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=4CAF50&style=flat-square" alt="ashimasingh0610" />
+</p>
 
 
 
