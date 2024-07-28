@@ -1,23 +1,22 @@
-<div style="display: flex; justify-content: space-between; align-items: right;">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=0e75b6&style=flat" alt="ashimasingh0610" />
+<div style="display: flex; justify-content: flex-end; align-items: center; padding: 10px;">
+  <p style="margin: 0; font-size: 16px; color: #4CAF50; font-weight: bold;">
+    <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=4CAF50&style=flat-square" alt="ashimasingh0610" />
   </p>
- </div>
-
+</div>
 
 
 
  <!--========================================================================-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=garamound&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Ashima+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Ashima+Singh!;" />
 
 
 
  <!--========================================================================-->
 
 
-<h1 align="center">Hi 👋, I'm Ashima Singh</h1>
+<h1 align="center">💫 Hi, I'm Ashima Singh! Glad you're here!</h1>
 <h3 align="center">A CS Undergrad , Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.</h3>  
 </h1>
 
@@ -40,6 +39,9 @@
 
 
  <!--========================================================================-->
+
+
+ 
 
  <h2 align="center">🔗 Connect with me 🔗</h2>
  
@@ -74,14 +76,16 @@
  <!--========================================================================-->
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ashimasingh0610&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1500&height=1000&duration=4000&color=00aaff&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;" />
 </div>
+</hr>
 
 <!--========================================================================-->
-
