@@ -38,7 +38,7 @@
 ✨ Fun Fact: I’m a **passionate reader** with a love for science fiction and fantasy novels.
 
  </div>
-
+<hr/>
 
  <!--========================================================================-->
 
@@ -86,9 +86,13 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <hr/>
+
+<!--========================================================================-->
+
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1500&height=1000&duration=4000&color=00aaff&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;" />
-</div>
-</hr>
+<img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;" />
+</h1>
+
 
 <!--========================================================================-->
