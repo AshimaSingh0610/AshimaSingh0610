@@ -7,7 +7,7 @@
  <!--========================================================================-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=cout+<<+(''Hello,+World!'')+🚀+Passionate+Coder+and+Developer;🌐+Exploring+New+Technologies;🔧+Building+Innovative+Solutions;📚+Lifelong+Learner+and+Tech+Enthusiast;&color=0033A0" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=cout+<<+(''Hello,+World!'');+🚀+Passionate+Coder+and+Developer;🌐+Exploring+New+Technologies;🔧+Building+Innovative+Solutions;📚+Lifelong+Learner+and+Tech+Enthusiast;&color=0033A0" />
 </h1>
 
 
