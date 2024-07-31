@@ -42,7 +42,7 @@
 ✨ Fun Fact: I’m a **passionate reader** with a love for science fiction and fantasy novels.
 
  </div>
-<hr/>
+
 
  <!--========================================================================-->
 
@@ -63,7 +63,7 @@
   </a>
 </div>
 
- <hr/>
+
 
  
  <!--========================================================================-->
@@ -76,7 +76,7 @@
 </div>
 
 <br/>
-<hr/>
+
 
 
  <!--========================================================================-->
@@ -89,20 +89,17 @@
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <hr/>
+
 
 <!--========================================================================-->
 
 
-
-<h2>LeetCode Stats 📊</h2>
-
 <div align="center">
   
-  <img src="https://leetcard.jacoblin.cool/ashimasingh0610?ext=heatmap&theme=dark" alt="LeetCode Heat Map" />
+  <img src="https://leetcard.jacoblin.cool/ashimasingh0610?&theme=dark" alt="LeetCode Heat Map" />
 </div>
 
- <hr/>
+
 
 <!--========================================================================-->
 
