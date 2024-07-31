@@ -1,8 +1,10 @@
 <!--========================================================================-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=cout+<<+%27%27Hello,+World!%27%27;+console.log(%27%27Hello,+World!%27%27);+print(%27%27Hello,+World!%27%27);+System.out.println(%27%27Hello,+World!%27%27);+console.log(%27%27Привет,+мир!%27%27);+print(%27%27Hola,+Mundo!%27%27);+print(%27%27Bonjour,+le+monde!%27%27);+print(%27%27こんにちは、世界！%27%27);+print(%27%27नमस्ते,+विश्व!%27%27);&color=0033A0" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=cout+<<+%27%27Hello,+World!%27%27;+console.log(%27%27Hello,+World!%27%27);+print(%27%27Hello,+World!%27%27);+System.out.println(%27%27Hello,+World!%27%27);+console.log(%27%27Привет,+мир!%27%27);+print(%27%27Hola,+Mundo!%27%27);+print(%27%27Bonjour,+le+monde!%27%27);+print(%27%27こんにちは、世界！%27%27);+print(%27%27नमस्ते,+विश्व!%27%27);&color=000000&background=ffffff" />
 </h1>
+
+
 
  <!--========================================================================-->
 
@@ -112,7 +114,7 @@
 
 <!--========================================================================-->
 
-## Enjoy Some Coding Humor! 😄
+<h2 align="center">  Enjoy Some Coding Humor! 😄 </h2>
 
 <div align="center" style="padding: 20px; border: 2px solid #2d2d2d; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); background-color: #1e1e1e; max-width: 700px; margin: auto;">
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" style="width: 100%; border-radius: 10px;">
@@ -123,12 +125,6 @@
 <!--========================================================================-->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;&color=000000&background=ffffff" />
 </h1>
 
-
-<!--========================================================================-->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=4CAF50&style=flat-square" alt="ashimasingh0610" />
-</p>
