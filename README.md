@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img width="35%" align="right" alt="Github" src="" />
+<!--img width="35%" align="right" alt="Github" src="" /-->
 
 
 
