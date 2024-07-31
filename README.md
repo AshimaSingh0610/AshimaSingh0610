@@ -16,7 +16,11 @@
  <!--========================================================================-->
 
 
-<h1 align="center">💫 Hi, I'm Ashima Singh! Glad you're here!</h1>
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; text-align: center;">
+    💫 Hi, I'm Ashima Singh! Glad you're here!
+    <img width="5%" alt="Github" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" style="margin-left: 10px;">
+</h1>
+
 <h3 align="center">A CS Undergrad , Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.</h3>  
 </h1>
 
@@ -24,6 +28,9 @@
 <br/>
 
 <div align="center">
+
+<img width="35%" align="right" alt="Github" src="" />
+
 
 
 
@@ -87,6 +94,30 @@
 
 <!--========================================================================-->
 
+
+
+<h2>LeetCode Stats 📊</h2>
+
+<div align="center">
+  
+  <img src="https://leetcard.jacoblin.cool/ashimasingh0610?ext=heatmap&theme=dark" alt="LeetCode Heat Map" />
+</div>
+
+ <hr/>
+
+<!--========================================================================-->
+
+## Enjoy Some Coding Humor! 😄
+
+<div align="center" style="padding: 20px; border: 2px solid #2d2d2d; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); background-color: #1e1e1e; max-width: 700px; margin: auto;">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" style="width: 100%; border-radius: 10px;">
+</div>
+
+
+<hr style="border: none; height: 2px; background-color: #ff5722; margin: 20px 0;"/>
+
+
+<!--========================================================================-->
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;" />
