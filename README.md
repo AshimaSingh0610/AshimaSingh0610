@@ -7,9 +7,8 @@
  <!--========================================================================-->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=cout+<<+(''Hello,+World!'');+🚀+Passionate+Coder+and+Developer;🌐+Exploring+New+Technologies;🔧+Building+Innovative+Solutions;📚+Lifelong+Learner+and+Tech+Enthusiast;&color=0033A0" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=cout+<<+%27%27Hello,+World!%27%27;+console.log(%27%27Hello,+World!%27%27);+print(%27%27Hello,+World!%27%27);+System.out.println(%27%27Hello,+World!%27%27);+console.log(%27%27Привет,+мир!%27%27);+print(%27%27Hola,+Mundo!%27%27);+print(%27%27Bonjour,+le+monde!%27%27);+print(%27%27こんにちは、世界！%27%27);+print(%27%27नमस्ते,+विश्व!%27%27);&color=0033A0" />
 </h1>
-
 
 
 
@@ -29,12 +28,12 @@
 
 <div align="center">
 
-<!--img width="35%" align="right" alt="Github" src="" /-->
+<img width="15%" align="right" alt="Github" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png">
 
 
 
 
- A passionate software developer specializing in **AI technologies** and **web development**.
+ A passionate software developer specializing in **AI technologies** and **Web Development**.
 
 💬 Ask me about **Python**, **Machine Learning**, and **Web Development**.
  
