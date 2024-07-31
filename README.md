@@ -1,16 +1,8 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=4CAF50&style=flat-square" alt="ashimasingh0610" />
-</p>
-
-
-
- <!--========================================================================-->
+<!--========================================================================-->
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=garamond&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=cout+<<+%27%27Hello,+World!%27%27;+console.log(%27%27Hello,+World!%27%27);+print(%27%27Hello,+World!%27%27);+System.out.println(%27%27Hello,+World!%27%27);+console.log(%27%27Привет,+мир!%27%27);+print(%27%27Hola,+Mundo!%27%27);+print(%27%27Bonjour,+le+monde!%27%27);+print(%27%27こんにちは、世界！%27%27);+print(%27%27नमस्ते,+विश्व!%27%27);&color=0033A0" />
 </h1>
-
-
 
  <!--========================================================================-->
 
@@ -29,7 +21,6 @@
 <div align="center">
 
 <img width="15%" align="right" alt="Github" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png">
-
 
 
 
@@ -82,22 +73,40 @@
  <!--========================================================================-->
 
 
-<h2 align="center">⚡ GitHub Analytics⚡</h2>
+<!-- <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ashimasingh0610&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+  <img width="350" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ashimasingh0610&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="350" height="200" src="https://leetcard.jacoblin.cool/ashimasingh0610?&theme=dark" alt="LeetCode Heat Map" />
+</div> -->
 
-
-<!--========================================================================-->
-
-
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
+<br>
 <div align="center">
-  
-  <img src="https://leetcard.jacoblin.cool/ashimasingh0610?&theme=dark" alt="LeetCode Heat Map" />
+  <!-- Streak Stats -->
+  <img align="center" height="155em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ashimasingh0610&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <!-- Readme Stats -->
+  <img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- Top Languages -->
+  <img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- LeetCode Heat Map -->
+  <img align="center" height="155em" src="https://leetcard.jacoblin.cool/ashimasingh0610?&theme=dark" alt="LeetCode Heat Map" />
+  <!-- Graph of Commits -->
+  <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimasingh0610&theme=github_dark" alt="Graph of Commits" />
+  <!-- Repositories per Language -->
+  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashimasingh0610&theme=github_dark" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimasingh0610&theme=github_dark" alt="GitHub Stats" />
+  <!-- Most Commit Languages -->
+  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashimasingh0610&theme=github_dark" alt="Most Commit Languages" />
+  <!-- Histogram of Commits -->
+  <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashimasingh0610&theme=github_dark" alt="Histogram of Commits" />
 </div>
+
+
+
 
 
 
@@ -110,8 +119,6 @@
 </div>
 
 
-<hr style="border: none; height: 2px; background-color: #ff5722; margin: 20px 0;"/>
-
 
 <!--========================================================================-->
 
@@ -121,3 +128,7 @@
 
 
 <!--========================================================================-->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=4CAF50&style=flat-square" alt="ashimasingh0610" />
+</p>
