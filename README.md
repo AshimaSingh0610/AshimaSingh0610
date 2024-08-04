@@ -32,7 +32,7 @@
  
 🖋️ Dive into my articles on [**Medium**]( https://medium.com/@ashima29) where I explore technology trends and share coding tips.
 
-✨ Fun Fact: I’m a **passionate reader** with a love for science fiction and fantasy novels.
+✨ Fun Fact:  Off-screen, I’m lost in sci-fi and fantasy worlds—where reality takes a backseat!
 
  </div>
 
