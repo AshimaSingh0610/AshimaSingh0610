@@ -65,7 +65,15 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,c,java,python,vscode,github,git,idea,pycharm" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,sqlite,ai,scikitlearn,fastapi,tensorflow,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,mysql,sqlite,ai,fastapi,tensorflow,flask" /><br>
+    <img src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Numpy-0E7ACE?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
+    <br>
 </div>
 
 <br/>
