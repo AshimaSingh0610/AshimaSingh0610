@@ -117,9 +117,6 @@
 
 
 
-
-
-
 <!--========================================================================-->
 
 <h2 align="center">  Enjoy Some Coding Humor! 😄 </h2>
@@ -128,11 +125,22 @@
     <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" style="width: 100%; border-radius: 10px;">
 </div>
 
-
-
 <!--========================================================================-->
+<!-- Profile views counter -->
+  <p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;&color=000000&background=ffffff" />
 </h1>
+
+<!--==========================================================-->
+<!--<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>-->
+
+
+
+
 
