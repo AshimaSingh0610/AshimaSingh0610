@@ -103,17 +103,25 @@
   <img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <!-- LeetCode Heat Map -->
   <img align="center" height="155em" src="https://leetcard.jacoblin.cool/ashimasingh0610?&theme=dark" alt="LeetCode Heat Map" />
-  <!-- Graph of Commits -->
-  <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimasingh0610&theme=github_dark" alt="Graph of Commits" />
-  <!-- Repositories per Language -->
-  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashimasingh0610&theme=github_dark" alt="Top Languages" />
-  <!-- GitHub Stats -->
-  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimasingh0610&theme=github_dark" alt="GitHub Stats" />
-  <!-- Most Commit Languages -->
-  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashimasingh0610&theme=github_dark" alt="Most Commit Languages" />
-  <!-- Histogram of Commits -->
-  <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashimasingh0610&theme=github_dark" alt="Histogram of Commits" />
+<!-- Graph of Commits -->
+<img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimasingh0610&theme=react&border_radius=10" alt="Graph of Commits" />
+
+<!-- Repositories per Language -->
+<img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashimasingh0610&theme=react&layout=compact&border_radius=10" alt="Top Languages" />
+
+<!-- GitHub Stats -->
+<img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimasingh0610&theme=react&border_radius=10" alt="GitHub Stats" />
+
+<!-- Most Commit Languages -->
+<img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashimasingh0610&theme=react&border_radius=10" alt="Most Commit Languages" />
+
+<!-- Histogram of Commits -->
+<img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashimasingh0610&theme=react&border_radius=10" alt="Histogram of Commits" />
+
 </div>
+
+
+
 
 
 
@@ -122,7 +130,7 @@
 <h2 align="center">  Enjoy Some Coding Humor! 😄 </h2>
 
 <div align="center" style="padding: 20px; border: 2px solid #2d2d2d; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); background-color: #1e1e1e; max-width: 700px; margin: auto;">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" style="width: 100%; border-radius: 10px;">
+    <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" style="width: 100%; border-radius: 10px;">
 </div>
 
 <!--========================================================================-->
