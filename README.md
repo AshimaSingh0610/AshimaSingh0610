@@ -56,8 +56,6 @@
   </a>
 </div>
 
-
-
  
  <!--========================================================================-->
  
@@ -101,8 +99,11 @@
   <img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <!-- Top Languages -->
   <img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <!-- LeetCode Heat Map -->
+<!-- LeetCode Heat Map -->
+<a href="https://leetcode.com/u/ashimasingh0610/" target="_blank">
   <img align="center" height="155em" src="https://leetcard.jacoblin.cool/ashimasingh0610?&theme=dark" alt="LeetCode Heat Map" />
+</a>
+
 <!-- Graph of Commits -->
 <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimasingh0610&theme=react&border_radius=10" alt="Graph of Commits" />
 
@@ -119,11 +120,14 @@
 <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashimasingh0610&theme=react&border_radius=10" alt="Histogram of Commits" />
 
 </div>
+<!--========================================================================-->
 
-
-
-
-
+<div align = "center">
+<h2 align="center">🚀 Top Contribution 🚀</h2>
+    
+   ![](https://github-contributor-stats.vercel.app/api?username=AshimaSingh0610&limit=5&theme=react&combine_all_yearly_contributions=true)
+</div>
+  
 
 <!--========================================================================-->
 
