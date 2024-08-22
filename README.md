@@ -77,7 +77,6 @@
 <br/>
 
 
-
  <!--========================================================================-->
 
 
@@ -93,12 +92,17 @@
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <br>
 <div align="center">
-  <!-- Streak Stats -->
-  <img align="center" height="155em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ashimasingh0610&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <!-- Readme Stats -->
-  <img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <!-- Top Languages -->
-  <img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<!-- Streak Stats -->
+<img align="center" height="155em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ashimasingh0610&count_private=true&theme=react" alt="streak stats"/>
+
+<!-- Readme Stats -->
+<img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ashimasingh0610&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
+
+<!-- Top Languages -->
+<img align="center" height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ashimasingh0610&hide=HTML&langs_count=8&layout=compact&theme=react&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+
 <!-- LeetCode Heat Map -->
 <a href="https://leetcode.com/u/ashimasingh0610/" target="_blank">
   <img align="center" height="155em" src="https://leetcard.jacoblin.cool/ashimasingh0610?&theme=dark" alt="LeetCode Heat Map" />
@@ -120,6 +124,7 @@
 <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashimasingh0610&theme=react&border_radius=10" alt="Histogram of Commits" />
 
 </div>
+
 <!--========================================================================-->
 
 <div align = "center">
@@ -142,6 +147,7 @@
   <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   </p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;&color=000000&background=ffffff" />
