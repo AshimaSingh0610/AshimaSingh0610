@@ -5,7 +5,6 @@
 </h1>
 
 
-
  <!--========================================================================-->
 
 
@@ -112,27 +111,34 @@
 <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashimasingh0610&theme=react&border_radius=10" alt="Graph of Commits" />
 
 <!-- Repositories per Language -->
-<img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashimasingh0610&theme=react&layout=compact&border_radius=10" alt="Top Languages" />
+<!-- <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashimasingh0610&theme=react&layout=compact&border_radius=10" alt="Top Languages" /> -->
+
 
 <!-- GitHub Stats -->
-<img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimasingh0610&theme=react&border_radius=10" alt="GitHub Stats" />
+<!-- <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashimasingh0610&theme=react&border_radius=10" alt="GitHub Stats" /> -->
 
 <!-- Most Commit Languages -->
-<img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashimasingh0610&theme=react&border_radius=10" alt="Most Commit Languages" />
+<!-- <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashimasingh0610&theme=react&border_radius=10" alt="Most Commit Languages" /> -->
 
 <!-- Histogram of Commits -->
 <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashimasingh0610&theme=react&border_radius=10" alt="Histogram of Commits" />
 
 </div>
 
+
+
+
+
+
 <!--========================================================================-->
 
-<div align = "center">
-<h2 align="center">🚀 Top Contribution 🚀</h2>
-    
-   ![](https://github-contributor-stats.vercel.app/api?username=AshimaSingh0610&limit=5&theme=react&combine_all_yearly_contributions=true)
+<!-- 
+<div align="center">
+  <h2 align="center">🚀 Top Contribution 🚀</h2>
+  ![](https://github-contributor-stats.vercel.app/api?username=AshimaSingh0610&limit=5&theme=react&combine_all_yearly_contributions=true)
 </div>
-  
+-->
+
 
 <!--========================================================================-->
 
@@ -147,11 +153,13 @@
   <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=ashimasingh0610&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   </p>
-
+ 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Thank+you+for+visiting+my+profile!+💖;I+appreciate+your+time!+😊;&color=000000&background=ffffff" />
 </h1>
+
+
 
 <!--==========================================================-->
 <!--<p align="center">
